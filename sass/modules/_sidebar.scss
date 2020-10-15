@@ -2,19 +2,19 @@
     background-color:#505050; 
     color: white;
     position:relative;
-}
 
-.sidebarC header { 
-    position:relative;
-    background-color: #690800;
-    height:110px; 
-    font-size:1.25rem;
-    margin:0 -15px;
-}
+    header { 
+        position:relative;
+        background-color: #690800;
+        height:110px; 
+        font-size:1.25rem;
+        margin:0 -15px;
 
-.sidebarC header p { 
-    display:inline;
-    padding-left:10px;
+        p { 
+            display:inline;
+            padding-left:10px;
+        }
+    }
 }
 
 .imgText {
