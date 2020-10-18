@@ -10,10 +10,10 @@ Using SASS and remake provided website
 2. create folders and files in the new repo on VSCode
 3. copy provided files to new repo files
 4. write SASS regarding provided CSS
-5. build AJAX
+5. create json, main.js and use AJAX
 
 ### History
-Oct.18.2020
+Oct.17.2020
 
 ### Credits
 Ryoko Oka Oct.2020
